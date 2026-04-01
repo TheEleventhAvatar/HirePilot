@@ -268,6 +268,7 @@ Job seekers in emerging markets face a structural disadvantage: the mechanics of
 A developer in India with identical skills to one in San Francisco shouldn't lose opportunities simply because they can't afford to spend 40 hours a week on applications.
 
 ---
+Note on Originality: This project is a specialized adaptation of the HirePilot concept originally developed by https://github.com/chibuchi001/AutoApply?tab=readme-ov-file. The core inspiration came from their work targeting the Lagos, Africa talent market.I have localized the automation agents for the Indian job market.
 
 ## License
 
