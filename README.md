@@ -1,9 +1,7 @@
 <div align="center">
 
-# AutoApply
+# HirePilot
 ### AI-Powered Job Application Agent
-
-*Amazon Nova Hackathon 2026 Submission*
 
 [![Nova Act](https://img.shields.io/badge/Amazon-Nova%20Act-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://nova.amazon.com)
 [![Nova 2 Lite](https://img.shields.io/badge/Amazon-Nova%202%20Lite-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock)
@@ -21,15 +19,15 @@ Upload your resume. Set your preferences. Let the agents apply while you practic
 
 ---
 
-AutoApply is an AI agent fleet that automates end-to-end job applications across multiple job boards, coaches candidates through voice interview prep with Amazon Nova 2 Sonic, and uses Nova 2 Lite to provide intelligent job matching and skill gap coaching.
+HirePilot is an AI agent fleet that automates end-to-end job applications across multiple job boards, coaches candidates through voice interview prep with Amazon Nova 2 Sonic, and uses Nova 2 Lite to provide intelligent job matching and skill gap coaching.
 
-> 🌍 **Built for the pan-African tech community** — giving every developer in Lagos, Nairobi, and Accra the same tools as candidates in San Francisco.
+> 🌍 **Built for the Indian tech community** — giving every developer in India the same tools as candidates in San Francisco.
 
 ---
 
 ## Demo
 
-> 🎥 [Demo Video — 3 minutes] *(link to video)*
+> 🎥  *(link to video)*
 
 **What the demo shows:**
 1. Profile creation and resume upload
@@ -267,9 +265,7 @@ AutoApply never submits a job application without user awareness:
 
 Job seekers in emerging markets face a structural disadvantage: the mechanics of job hunting are time-intensive, and candidates in major tech hubs have more time and tools to navigate the process.
 
-A developer in Lagos with identical skills to one in San Francisco shouldn't lose opportunities simply because they can't afford to spend 40 hours a week on applications.
-
-AutoApply levels that playing field. Read the full story in our [blog post](docs/blog-post.md).
+A developer in India with identical skills to one in San Francisco shouldn't lose opportunities simply because they can't afford to spend 40 hours a week on applications.
 
 ---
 
@@ -278,5 +274,3 @@ AutoApply levels that playing field. Read the full story in our [blog post](docs
 MIT — free to use, adapt, and build upon.
 
 ---
-
-*#AmazonNova · Amazon Nova Hackathon 2026*
