@@ -156,7 +156,7 @@ Open [http://localhost:3000](http://localhost:3000)
 ### No API keys? No problem.
 
 All three AI services degrade gracefully with realistic fallbacks:
-- **Nova Act** → returns Nigerian-market mock job listings with realistic companies and Naira salary ranges
+- **Nova Act** → returns Indian-market mock job listings with realistic companies and Indian salary ranges
 - **Nova 2 Lite** → regex-based resume parser extracts skills and experience; keyword-overlap match scoring
 - **Nova 2 Sonic** → interactive text-based mock interview with job-tailored questions and coaching tips
 
